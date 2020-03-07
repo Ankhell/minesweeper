@@ -1,3 +1,5 @@
+package me.ankhell.minesweeper;
+
 public class Coordinates {
     int x;
     int y;

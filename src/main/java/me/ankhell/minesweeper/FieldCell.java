@@ -1,3 +1,5 @@
+package me.ankhell.minesweeper;
+
 public class FieldCell {
     FieldCellState state;
     int neighbourMinesCount;

@@ -1,3 +1,5 @@
+package me.ankhell.minesweeper;
+
 public enum FieldCellState {
     MINE_HIDDEN('.'),
     MINE_MARKED('*'),
